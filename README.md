@@ -20,4 +20,4 @@ A lot of those scripts are originally created by other modders so credit them if
 
 For more scripts, plugins, etc, visit us today and raise your game server to a completely new level!
 
-#https://eQGamers.com
+#https://gamersfield.org
